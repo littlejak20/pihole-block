@@ -1,0 +1,18 @@
+#### Here you can find my used blocking URL lists, which I use in my PiHole
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://mirror1.malwaredomains.com/files/justdomains
+http://sysctl.org/cameleon/hosts
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://hosts-file.net/ad_servers.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/ytadblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/genadblock.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/gentrackblock.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win7/spy.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt
+https://raw.githubusercontent.com/littlejak20/pihole-block/master/streamblock.txt
