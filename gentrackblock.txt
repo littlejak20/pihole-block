@@ -1,3 +1,1 @@
-www.gstatic.com
-ssl.gstatic.com
 zeustracker.abuse.ch
