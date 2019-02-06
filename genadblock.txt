@@ -1,2 +1,4 @@
 adservice.google.de
 web-ads.10sq.net
+uib.ff.avast.com
+urlinfo.nsl.ff.avast.com
